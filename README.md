@@ -1,6 +1,7 @@
 # lab02-jaoyama73
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-jaoyama73/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02-jaoyama73
 
 # About this repo
